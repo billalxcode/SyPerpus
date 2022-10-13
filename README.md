@@ -10,4 +10,3 @@ Sistem ini dikelola dengan merujuk pada lisensi **GNU General Public License Ver
 
 ## Demo
 - Segera
-
